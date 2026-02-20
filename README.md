@@ -1,12 +1,12 @@
-👇
 
-📘 Assignment 1 – Control Flow and Bisection Search
-🏫 Sai University
+
+ Assignment 1 – Control Flow and Bisection Search
+ Sai University
 
 School of Computing and Data Science
 Course: Programming in Python
 
-📌 Overview
+ Overview
 
 This assignment focuses on understanding and implementing:
 
@@ -20,7 +20,7 @@ Bisection search algorithm
 
 The assignment is divided into three parts that simulate real-world savings problems.
 
-📂 Files Included
+ Files Included
 
 ps1a.py – House Hunting
 
@@ -28,7 +28,7 @@ ps1b.py – Saving with a Raise
 
 ps1c.py – Finding the Right Amount to Save
 
-🔹 Part A: House Hunting
+ Part A: House Hunting
 
 A program that calculates the number of months required to save enough for a 25% down payment on a house.
 
@@ -52,7 +52,7 @@ Output:
 
 Number of months required to reach the down payment
 
-🔹 Part B: Saving with a Raise
+ Part B: Saving with a Raise
 
 Extension of Part A with an added feature:
 
@@ -64,7 +64,7 @@ Semi-annual raise (decimal)
 
 The salary increases every 6 months.
 
-🔹 Part C: Finding the Right Amount to Save
+ Part C: Finding the Right Amount to Save
 
 Uses the Bisection Search algorithm to determine the best savings rate needed to afford the down payment in exactly 36 months.
 
@@ -86,7 +86,7 @@ Number of bisection steps
 
 Message if saving in 3 years is impossible
 
-🧠 Concepts Used
+Concepts Used
 
 While loops
 
@@ -98,7 +98,7 @@ Percentage and interest computation
 
 Bisection search algorithm
 
-🎯 Learning Outcomes
+ Learning Outcomes
 
 By completing this assignment, students will:
 
